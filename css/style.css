@@ -1,0 +1,135 @@
+body{
+    background-color: rgb(51, 45, 45);
+}
+h1{
+    
+    color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+h4{
+    font-size: 16px;
+    text-align: center;
+    color: white;
+}
+p{
+    color: white;
+}
+.final{
+	height: 55px;
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+	line-height: 55px;
+	padding: 0px 40px;
+}
+a{
+    color: white;
+}
+.p-h1{
+    text-align: left;
+}
+.letra{
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+    height: 55px;
+    width: 100%;
+    line-height: 55px;   
+    color: rgb(255, 255, 255);
+    height: 60px;
+    background-color: black;
+    left: 0%;
+    top:20%;
+    margin:0;
+    
+}
+.borrar-platillo{
+    color: yellow;
+    background-color: rgb(68, 58, 58);
+    text-decoration: none;
+    padding: 5px 10px;
+}
+.hero{
+    background-image: url(../img/pared.png);
+    height: 200px;
+}
+h6{
+    font-size: 4cm;
+    text-align: center;
+    position: absolute;
+    left: 20%;
+    top: 8%;
+    color: white;
+}
+th{
+    color: white;
+}
+td{
+    color: white;
+}
+a{
+    color: white;
+}
+.button {
+    color: white;
+    top: 8%;
+}
+.u-full-width{
+    color: white;
+}
+
+body{
+    margin: 0px;
+}
+.row{
+    margin: 20px;
+    margin-top: 0;
+}
+.submenu {
+    position: relative;
+}
+.submenu #carrito{
+    display: none;
+}
+.submenu:hover #carrito{
+    display: block;
+    color: white;
+    position:absolute;
+    right: 10px;
+    top: 100%;
+    z-index: 1;
+    background-color:black;
+    padding: 20px;
+}
+.f{
+    font-size: 3cm;
+    left: 15%;
+    top: 20%;
+
+}
+button{
+    background-color: black;
+}
+.ropavaron{
+    font-size: 3cm;
+    text-align: center;
+    position: absolute;
+    left: 20%;
+    top: 15%;
+    color: white;
+}
+p{
+    text-align: center;
+}
+.submenu{
+    margin-top: -70px;
+}
+.agosto{
+    height: 400px;
+    width: 100%;
+}
+
+
